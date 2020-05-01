@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/user16/Desktop/hw3/hw3/music.mp3">
+   </FileRef>
+   <FileRef
       location = "self:hw3.xcodeproj">
    </FileRef>
 </Workspace>
